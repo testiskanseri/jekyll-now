@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Hakkında
+permalink: /hakkinda/
 ---
 
-Some information about you!
+29 Yaşındayım, İngilizce öğretmeniyim. Uzun süredir geceleri beni uyutmayan bir karın ağrısı şikayetiyle hastaneye gidiyordum, tanı koyulamıyordu. 29 Ocak 2018 tarihinde Evre IIC testis kanseri tanısı kondu. Buradan tedavi sürecine ve süreç ile ilgili öğrendiklerime dair yazılarımı paylaşıyorum
 
-### More Information
+### İletişim
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Bana iletmek istediğiniz soru veya mesajınız varsa [bcanata@gmail.com](mailto:bcanata@gmail.com) adresini veya aşağıdaki iletişim kanallarını kullanabilirsiniz.
