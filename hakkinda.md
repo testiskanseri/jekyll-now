@@ -8,4 +8,4 @@ permalink: /hakkinda/
 
 ### İletişim
 
-Bana iletmek istediğiniz soru veya mesajınız varsa [bcanata@gmail.com](mailto:bcanata@gmail.com) adresini veya aşağıdaki iletişim kanallarını kullanabilirsiniz.
+Bana iletmek istediğiniz soru veya mesajınız varsa [bcanata@gmail.com](mailto:bcanata@gmail.com) e-posta adresini kullanabilirsiniz.
