@@ -8,15 +8,25 @@ Sabahtan 10:00 gibi Medicana'da olmamızı söylediler. Prof. Dr. Mutlu Demiray,
 Asistan, daha önceden alınan rapor ve belgelerin birer nüshasını alıp dosyaladı. Sonra kemoterapiyi kabul ettiğime dair belgeleri imzaladım. Doktorun muayeneleri vs olduğu için uzunca bir süre doktoru bekledik, 12:15 gibi doktorun yanına aldılar. Doktor daha önceden de söylediği gibi 3 kür BEP planladı. Plana göre şu şekilde olacak:
 
 _Gün 1_: **B**leomisin, **E**toposid, Sis<b>P</b>latin
+
 _Gün 2_: **E**toposid, Sis<b>P</b>latin
+
 _Gün 3_: **E**toposid, Sis<b>P</b>latin
+
 _Gün 4_: **E**toposid, Sis<b>P</b>latin
+
 _Gün 5_: **E**toposid, Sis<b>P</b>latin
+
 ...
+
 _Gün 8_: **B**leomisin
+
 ...
+
 _Gün 15_: **B**leomisin
+
 ...
+
 
 Toplam 1 kür bu şekilde 21 günlük, yani 3 haftalık bir dönemi içeriyor. Yani özetle 21x3=63 gün sonra bitecek. Daha sonra muhtemelen kitlenin durumunun tespiti için CT çekilecekmiş.
 
